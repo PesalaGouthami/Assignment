@@ -1,2 +1,3 @@
 This is line 1 in file d
 This is line 2 in file d
+This is line 3 in file d
